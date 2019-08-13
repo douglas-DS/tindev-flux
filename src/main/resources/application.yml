@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://douglas:souza03@cluster0-rza70.mongodb.net/tindev?retryWrites=true&w=majority
